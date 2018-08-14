@@ -1,4 +1,5 @@
 # devops-aula02
-# fulano
+# fulano de tal
 # ciclano
 # beltrano
+# goku
